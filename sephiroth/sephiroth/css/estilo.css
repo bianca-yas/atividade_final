@@ -1,0 +1,103 @@
+body{
+    background-color: black;
+}
+
+nav{
+    background-color: darkblue;
+    width: auto;
+    height: 100px;
+    margin-bottom: 40px;
+}
+
+.imagen1{
+    float: right;
+
+}
+
+.imagen2{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.sephiroth-historia{
+    text-align: center;
+    margin-left: 20px;
+    color: white;
+}
+
+.filme{
+    margin-left: 20px;
+    color: white;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.imagen3{
+    text-align: center;
+}
+
+.h1Rebirth{
+    /*float: left;*/
+    text-align: center;
+    margin-top: 70px;
+}
+
+.rebirth{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: white;
+}
+
+.video{
+    margin-left: 250px;
+}
+
+.carousel{
+    margin-top: 20px;
+    height: 635px;
+    width: 0 auto;
+}
+
+
+.h1Referencias{
+    margin-top: 40px;
+}
+
+.referencias{
+    color: white;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 40px;
+    margin: 40px 200px 40px 200px;
+}
+
+.samurai{
+    float: right;
+    margin-left: 20px;
+    margin-right: 15px;
+}
+
+.finalForm{
+    float: right;
+    margin-left: 15px;
+}
+
+.anjo{
+    float: right;
+}
+
+.amarelinha{
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
+
+footer{
+    width: auto;
+    height: 100px;
+    background-color: darkblue;
+}
